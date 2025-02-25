@@ -4,7 +4,7 @@ Simple adapter from RJ45 to Qwiic / STEMMA QT / JST SH.
 ## !HAS NOT BEEN BUILT YET, CANNOT CONFIRM IF IT WORKS!
 
 ## About
-We needed a cheap and solid solution for transfering I2C signal over distance greater than 1m.<br>
+We needed a cheap and solid solution for transferring I2C signal over distance greater than 1m.<br>
 This resulted with simple PCB that allows use of ethernet cable for I2C signal.
 
 ![Screenshot_1](https://github.com/user-attachments/assets/e61331c2-b94a-424e-ae87-2c020b7e8e02)
